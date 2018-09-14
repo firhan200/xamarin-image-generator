@@ -1,5 +1,5 @@
 # xamarin-image-generator
-Desktop Application for resizing image to android drawable &amp; ios scale
+Desktop Windows Application for resizing image to android drawable &amp; ios scale
 <br/>
 <b>Preview:</b><br/>
 <img src="https://image.ibb.co/dU1NkU/xamarin_image_generator.png"/>
